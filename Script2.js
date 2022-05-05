@@ -47,3 +47,40 @@ window.alert(resultado);
         } else {
             window.alert("Usted no puede votar");
     } */
+
+// Ejercicio 6
+/* var dia = parseInt(prompt("Ingrese un número del 1 al 7: "));
+
+        switch(dia) {
+            case 1: 
+                document.write("Lunes");
+            break;
+        case 2: 
+                document.write("Martes");
+            break;
+        case 3: 
+                document.write("Miercoles");
+            break;
+        case 4: 
+                document.write("Jueves");
+            break;            
+        case 5: 
+                document.write("Viernes");
+            break;  
+        case 6: 
+                document.write("Sabado");
+            break;  
+        case 7: 
+                document.write("Domingo");
+            break;  
+        } */
+        
+// Ejercicio 7
+/* var n1 = parseInt(prompt("Ingrese su edad: ")); 
+
+if(n1 <= 12 || n1 >= 70) {
+    window.alert("Usted no debe pagar boleto");
+} else {
+    window.alert("Usted debe pagar boleto");
+}
+ */
